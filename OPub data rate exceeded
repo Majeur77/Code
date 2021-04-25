@@ -1,3 +1,0 @@
-#  OPub data rate exceeded问题解决
-
-jupyter notebook --NotebookApp.iopub_data_rate_limit=2147483647000
