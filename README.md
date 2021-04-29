@@ -1,10 +1,10 @@
 # Resume and Syllabi Match System
 
 
-# Porject Goal
+# Project Goal
 This project aims to create a computer-based tool with R language that matches a resume to program course syllabi to discover gaps and recommend courses. 
 
-# Porject Description
+# Project Description
 This project will create a computer-based tool matching a resume to program course syllabi to discover gaps and recommend users' courses.
 As the project manager, I will help NYU CAES, and NYU SPS develop additional tools to match students' resumes against the course syllabi in a program they are attending to discover gaps in their knowledge and select additional courses to enroll. The tool allows the user to upload their resume, select the study program, and identify courses already taken and courses needed for a selected concentration. The tool will score the resume against the syllabi and recommend courses to remove the gap between what students know and what they want to know. It can help the faculty member discover the gaps in their course covers to improve the course and help students discover the best match courses.
 Driven by its motivation to provide a better educational experience to students and instructors, this project strives to use technology to discover students' advantages and skills and bring a better education experience by sharing, enriching, encouraging, and assisting students as well as instructors with its advanced technology learning solutions.
