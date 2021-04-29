@@ -11,11 +11,12 @@ Driven by its motivation to provide a better educational experience to students 
 
 # Use Case
 Users can visit the webpage to upload their resume as a source firstly. 
-The resume should be a txt file. If users want to discover the most suitable recommended courses according to personal situations, they should also upload the course description CSV file as the target file. Then users can click submit button, and the tool will automatically score the course match. Users should patiently wait for few seconds, and the result will display on their screen. 
+The resume should be a txt file. If users want to discover the most suitable recommended courses according to personal situations, they should also upload the course description CSV file as the target file. Then users can click Compute button, and the tool will automatically score the course match. Users should patiently wait for few seconds, and the result will display on their screen. 
 According to the result, users can compare the similarity score to choose the most suitable course. If users want to save the result, they can press the "Download Socring Result" button at the end of the result to download it.
 
 This system has four main functions:
 1.	Upload resume txt file by users
 2.	Upload course description CSV file by users
-3.	After the result scored,  click the "Download Socring Result" button to download a copy of the ranked list
+3.	Click the "Compute" button, the result will show in the tight side
+4.	After the result scored,  click the "Download Socring Result" button to download a copy of the ranked list
 
