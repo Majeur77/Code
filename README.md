@@ -17,6 +17,5 @@ According to the result, users can compare the similarity score to choose the mo
 This system has four main functions:
 1.	Upload resume txt file by users
 2.	Upload course description CSV file by users
-3.	"Submit" button: run the program 
-4.	After the result scored,  click the "Download as CSV" button to download a copy of the ranked list
+3.	After the result scored,  click the "Download Socring Result" button to download a copy of the ranked list
 
